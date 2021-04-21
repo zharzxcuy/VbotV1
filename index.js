@@ -72,7 +72,7 @@ NamaOwner = 'ZX.BOT'
 NamaBot = 'ZX.BOT'
 
 //owner number
-const ownerNumber = ["6285790763534@s.whatsapp.net","6285790763534@s.whatsapp.net"]   //ganti nomor lu! 
+const ownerNumber = ["919074329903@s.whatsapp.net","6285790763534@s.whatsapp.net"]   //ganti nomor lu! 
        
 //file json
 const _leveling = JSON.parse(fs.readFileSync('./database/group/leveling.json'))
@@ -2252,7 +2252,8 @@ Rᴏᴍᴀɴᴄᴇ
    │   *TTP MENU*
    │
    ┣𖥻ꦼꦽ➳${prefix}ttp
-   ┣𖥻ꦼꦽ➳${prefix}ttp2
+   ┣𖥻ꦼꦽ➳
+${prefix}ttp2
    ┣𖥻ꦼꦽ➳${prefix}ttp3
    ┣𖥻ꦼꦽ➳${prefix}ttp4
    ┣𖥻ꦼꦽ➳${prefix}attp
